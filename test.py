@@ -1,3 +1,3 @@
 import os
-cmd = 'ls -l'
+cmd = 'cd && git clone https://github.com/Dr-Gecko/PersonalDuckies'
 os.system(cmd)
